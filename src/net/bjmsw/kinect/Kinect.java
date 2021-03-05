@@ -38,7 +38,13 @@ public class Kinect extends J4KSDK {
 
     @Override
     public void onColorFrameEvent(byte[] color_data) {
-
+        if (Plugin.enableColor) {
+            try {
+                Plugin.color.put(color_data);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
     }
 
     @Override

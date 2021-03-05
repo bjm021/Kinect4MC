@@ -1,16 +1,29 @@
-# The image resize factor
-#
-# If the image is to large or you want a smaller image increase this number
-# (The width and the height will be divided by this factor)
-# (A higher factor will also decrease resolution of course)
-resize-factor: 2
-# Depth factor
-#
-# This is the factor by which the depth is calculated
-# A higher value will result in a wider space between the layers of depth
-depth: 3
-# Auto Update interval
-#
-# The interval of the autoupdate in ticks (1 second = 20 ticks)
-# Be careful with this value
-auto-interval: 40
+depth:
+  # The image resize factor
+  #
+  # If the image is to large or you want a smaller image increase this number
+  # (The width and the height will be divided by this factor)
+  # (A higher factor will also decrease resolution of course)
+  resize-factor: 2
+  # Depth factor
+  #
+  # This is the factor by which the depth is calculated
+  # A higher value will result in a wider space between the layers of depth
+  depth: 3
+  # Auto Update interval
+  #
+  # The interval of the autoupdate in ticks (1 second = 20 ticks)
+  # Be careful with this value
+  auto-interval: 40
+color:
+  # Auto Update interval
+  #
+  # The interval of the autoupdate in ticks (1 second = 20 ticks)
+  # Be careful with this value
+  auto-interval: 40
+  # The image resize factor
+  #
+  # If the image is to large or you want a smaller image increase this number
+  # (The width and the height will be divided by this factor)
+  # (A higher factor will also decrease resolution of course)
+  resize-factor: 2
