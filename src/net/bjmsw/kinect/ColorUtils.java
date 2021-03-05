@@ -34,7 +34,7 @@ public class ColorUtils {
         colorList.add(new ColorName("BROWN_CONCRETE", 0x82, 0x54, 0x32));
         colorList.add(new ColorName("GREEN_CONCRETE", 0x5D, 0x7C, 0x15));
         colorList.add(new ColorName("RED_CONCRETE", 0xB0, 0x2E, 0x26));
-        colorList.add(new ColorName("BLACK_CONCRETE0 0x1D, 0x12, 0x21));
+        colorList.add(new ColorName("BLACK_CONCRETE", 0x1D, 0x12, 0x21));
         return colorList;
     }
 
