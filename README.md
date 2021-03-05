@@ -14,5 +14,9 @@ Works with Kinect V1 & V2
 - You can pull a single frame with /kinect update (the first frame will take a while to be placed)
 - You can start a auto-update by typing /kinect start (and /kinect stop stops it)
 
+# Example
+![Real image](https://cdn.bjmsw.net/img/KinectRealFrame.JPEG)
+![MC Output](https://cdn.bjmsw.net/img/KinectDepthMC.jpeg)
+
 # Libraries
 This plugin uses the [J4K](https://research.dwi.ufl.edu/projects/ufdw/j4k/) Library 
