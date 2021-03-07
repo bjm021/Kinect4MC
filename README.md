@@ -1,7 +1,18 @@
 # Kinect4MC
-A proof-of-concetp implementation of the [J4K](https://research.dwi.ufl.edu/projects/ufdw/j4k/) Library to display a depth image in Minecraft
+A proof-of-concetp implementation of the [J4K](https://research.dwi.ufl.edu/projects/ufdw/j4k/) Library to display a depth and color image in Minecraft.
 
-Works with Kinect V1 & V2
+# Features
+- Depth Image printing (Kinect only)
+- Color Image printing (Kinect only ATM!)
+- Image auto update (adjustable refresh rate)
+- Image file (png, jpg, etc.) printing
+
+
+# Compatability
+- Depth works with Kinect V1 & V2
+- Color works atm only with Kinect V1 & V2 but:
+- There are plans to implement the normal Color Frame feature for any generic webcam
+- Image printing works without any requirements 
 
 # Usage
 - [Download the latest Plugin release](https://github.com/bjm021/Kinect4MC/releases/latest) from the releases page
