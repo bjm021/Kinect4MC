@@ -59,8 +59,8 @@ public class ColorUtils {
         //colorList.add(new ColorName(Material.GREEN_STAINED_GLASS, 0x66, 0x7f, 0x33));
         colorList.add(new ColorName(Material.MAGENTA_CONCRETE, 0xa9, 0x30, 0x9f));
         colorList.add(new ColorName(Material.STRIPPED_SPRUCE_LOG, 0x73, 0x59, 0x34));
-        colorList.add(new ColorName(Material.IRON_BARS, 0x3e, 0x3f, 0x3d));
-        colorList.add(new ColorName(Material.CRIMSON_ROOTS, 0x2c, 0x02, 0x0e));
+        //colorList.add(new ColorName(Material.IRON_BARS, 0x3e, 0x3f, 0x3d));
+        //colorList.add(new ColorName(Material.CRIMSON_ROOTS, 0x2c, 0x02, 0x0e));
         colorList.add(new ColorName(Material.BROWN_TERRACOTTA, 0x4d, 0x33, 0x23));
         colorList.add(new ColorName(Material.PURPLE_GLAZED_TERRACOTTA, 0x6d, 0x30, 0x98));
         colorList.add(new ColorName(Material.CHISELED_QUARTZ_BLOCK, 0xe7, 0xe2, 0xda));
@@ -82,7 +82,7 @@ public class ColorUtils {
         colorList.add(new ColorName(Material.STRIPPED_WARPED_STEM, 0x39, 0x96, 0x93));
         colorList.add(new ColorName(Material.STRIPPED_BIRCH_LOG, 0xc4, 0xb0, 0x76));
         colorList.add(new ColorName(Material.WHITE_WOOL, 0xe9, 0xec, 0xec));
-        colorList.add(new ColorName(Material.ACACIA_LEAVES, 0x56, 0x55, 0x55));
+        //colorList.add(new ColorName(Material.ACACIA_LEAVES, 0x56, 0x55, 0x55));
         colorList.add(new ColorName(Material.GREEN_TERRACOTTA, 0x4c, 0x53, 0x2a));
         colorList.add(new ColorName(Material.JUNGLE_LOG, 0x55, 0x43, 0x19));
         colorList.add(new ColorName(Material.MAGENTA_CONCRETE_POWDER, 0xc0, 0x53, 0xb8));
@@ -137,7 +137,7 @@ public class ColorUtils {
         //colorList.add(new ColorName(Material.SUGAR_CANE, 0x51, 0x6a, 0x37));
         colorList.add(new ColorName(Material.POLISHED_BLACKSTONE, 0x35, 0x30, 0x38));
         colorList.add(new ColorName(Material.WHITE_CONCRETE, 0xcf, 0xd5, 0xd6));
-        colorList.add(new ColorName(Material.SPRUCE_LEAVES, 0x4e, 0x4e, 0x4e));
+        //colorList.add(new ColorName(Material.SPRUCE_LEAVES, 0x4e, 0x4e, 0x4e));
         colorList.add(new ColorName(Material.BLUE_WOOL, 0x35, 0x39, 0x9d));
         colorList.add(new ColorName(Material.WARPED_PLANKS, 0x2b, 0x68, 0x63));
         colorList.add(new ColorName(Material.GOLD_BLOCK, 0xf6, 0xd0, 0x3d));
@@ -156,13 +156,12 @@ public class ColorUtils {
         //colorList.add(new ColorName(Material.CRIMSON_NYLIUM, 0x82, 0x1f, 0x1f));
         colorList.add(new ColorName(Material.MAGENTA_TERRACOTTA, 0x95, 0x58, 0x6c));
         colorList.add(new ColorName(Material.POLISHED_BLACKSTONE_BRICKS, 0x2e, 0x29, 0x30));
-        colorList.add(new ColorName(Material.SOUL_TORCH, 0x08, 0x08, 0x07));
         colorList.add(new ColorName(Material.BROWN_WOOL, 0x72, 0x47, 0x28));
         colorList.add(new ColorName(Material.COBBLESTONE, 0x7f, 0x7f, 0x7f));
         colorList.add(new ColorName(Material.IRON_ORE, 0x88, 0x82, 0x7f));
         colorList.add(new ColorName(Material.GILDED_BLACKSTONE, 0x38, 0x2b, 0x26));
         colorList.add(new ColorName(Material.WHITE_CONCRETE_POWDER, 0xe1, 0xe3, 0xe3));
-        colorList.add(new ColorName(Material.WARPED_ROOTS, 0x07, 0x31, 0x2c));
+        //colorList.add(new ColorName(Material.WARPED_ROOTS, 0x07, 0x31, 0x2c));
         colorList.add(new ColorName(Material.DARK_PRISMARINE, 0x33, 0x5b, 0x4b));
         //colorList.add(new ColorName(Material.ALLIUM, 0x23, 0x22, 0x2c));
         //colorList.add(new ColorName(Material.SHULKER_BOX, 0x8b, 0x60, 0x8b));
@@ -173,7 +172,7 @@ public class ColorUtils {
         colorList.add(new ColorName(Material.TERRACOTTA, 0x98, 0x5e, 0x43));
         colorList.add(new ColorName(Material.CHISELED_RED_SANDSTONE, 0xb7, 0x60, 0x1b));
         colorList.add(new ColorName(Material.RED_NETHER_BRICKS, 0x45, 0x07, 0x09));
-        colorList.add(new ColorName(Material.SPAWNER, 0x19, 0x1f, 0x2b));
+        //colorList.add(new ColorName(Material.SPAWNER, 0x19, 0x1f, 0x2b));
         colorList.add(new ColorName(Material.GRAY_TERRACOTTA, 0x39, 0x2a, 0x23));
         colorList.add(new ColorName(Material.PINK_GLAZED_TERRACOTTA, 0xeb, 0x9a, 0xb5));
         colorList.add(new ColorName(Material.POLISHED_GRANITE, 0x9a, 0x6a, 0x59));
@@ -203,7 +202,7 @@ public class ColorUtils {
         //colorList.add(new ColorName(Material.WEEPING_VINES_PLANT, 0x3b, 0x07, 0x05));
         colorList.add(new ColorName(Material.LIGHT_GRAY_TERRACOTTA, 0x87, 0x6a, 0x61));
         colorList.add(new ColorName(Material.IRON_BLOCK, 0xdc, 0xdc, 0xdc));
-        colorList.add(new ColorName(Material.GRASS, 0x4f, 0x4f, 0x4f));
+        //colorList.add(new ColorName(Material.GRASS, 0x4f, 0x4f, 0x4f));
         //colorList.add(new ColorName(Material.SEAGRASS, 0x3f, 0x63, 0x2b));
         colorList.add(new ColorName(Material.STONE, 0x7d, 0x7d, 0x7d));
         colorList.add(new ColorName(Material.PINK_CONCRETE, 0xd5, 0x65, 0x8e));
@@ -234,7 +233,6 @@ public class ColorUtils {
         colorList.add(new ColorName(Material.BLUE_TERRACOTTA, 0x4a, 0x3b, 0x5b));
         //colorList.add(new ColorName(Material.ICE, 0x91, 0xb7, 0xfd));
         colorList.add(new ColorName(Material.BLACK_WOOL, 0x14, 0x15, 0x19));
-        colorList.add(new ColorName(Material.DEAD_BUSH, 0x20, 0x18, 0x0c));
         //colorList.add(new ColorName(Material.GRAY_STAINED_GLASS, 0x4c, 0x4c, 0x4c));
         //colorList.add(new ColorName(Material.ATTACHED_MELON_STEM, 0x12, 0x12, 0x12));
         colorList.add(new ColorName(Material.WHITE_TERRACOTTA, 0xd1, 0xb2, 0xa1));
@@ -261,12 +259,12 @@ public class ColorUtils {
         colorList.add(new ColorName(Material.SOUL_SAND, 0x51, 0x3e, 0x32));
         colorList.add(new ColorName(Material.RED_WOOL, 0xa0, 0x27, 0x22));
         //colorList.add(new ColorName(Material.ATTACHED_PUMPKIN_STEM, 0x11, 0x11, 0x11));
-        colorList.add(new ColorName(Material.DARK_OAK_LEAVES, 0x69, 0x69, 0x69));
+        //colorList.add(new ColorName(Material.DARK_OAK_LEAVES, 0x69, 0x69, 0x69));
         colorList.add(new ColorName(Material.LIGHT_GRAY_WOOL, 0x8e, 0x8e, 0x86));
         colorList.add(new ColorName(Material.LIGHT_GRAY_GLAZED_TERRACOTTA, 0x90, 0xa6, 0xa7));
         colorList.add(new ColorName(Material.NETHER_WART_BLOCK, 0x72, 0x02, 0x02));
         //colorList.add(new ColorName(Material.BROWN_STAINED_GLASS, 0x66, 0x4c, 0x33));
-        colorList.add(new ColorName(Material.OAK_LEAVES, 0x60, 0x60, 0x60));
+        //colorList.add(new ColorName(Material.OAK_LEAVES, 0x60, 0x60, 0x60));
         colorList.add(new ColorName(Material.BROWN_MUSHROOM_BLOCK, 0x95, 0x6f, 0x51));
         colorList.add(new ColorName(Material.RED_SAND, 0xbe, 0x66, 0x21));
         //colorList.add(new ColorName(Material.ORANGE_SHULKER_BOX, 0xea, 0x6a, 0x08));
@@ -289,7 +287,7 @@ public class ColorUtils {
         colorList.add(new ColorName(Material.LAPIS_BLOCK, 0x1e, 0x43, 0x8c));
         colorList.add(new ColorName(Material.NETHERRACK, 0x61, 0x26, 0x26));
         //colorList.add(new ColorName(Material.GLASS, 0x8c, 0x95, 0x97));
-        colorList.add(new ColorName(Material.JUNGLE_LEAVES, 0x6d, 0x6b, 0x63));
+        //colorList.add(new ColorName(Material.JUNGLE_LEAVES, 0x6d, 0x6b, 0x63));
         colorList.add(new ColorName(Material.CYAN_GLAZED_TERRACOTTA, 0x34, 0x76, 0x7d));
         colorList.add(new ColorName(Material.SLIME_BLOCK, 0x6f, 0xc0, 0x5b));
         colorList.add(new ColorName(Material.SAND, 0xdb, 0xcf, 0xa3));
@@ -316,7 +314,7 @@ public class ColorUtils {
         //colorList.add(new ColorName(Material.LIGHT_BLUE_SHULKER_BOX, 0x31, 0xa3, 0xd4));
         colorList.add(new ColorName(Material.GRANITE, 0x95, 0x67, 0x55));
         colorList.add(new ColorName(Material.LIGHT_BLUE_CONCRETE, 0x23, 0x89, 0xc6));
-        colorList.add(new ColorName(Material.BIRCH_LEAVES, 0x49, 0x48, 0x49));
+        //colorList.add(new ColorName(Material.BIRCH_LEAVES, 0x49, 0x48, 0x49));
         //colorList.add(new ColorName(Material.WEEPING_VINES, 0x0b, 0x00, 0x00));
         colorList.add(new ColorName(Material.RED_CONCRETE, 0x8e, 0x20, 0x20));
         colorList.add(new ColorName(Material.QUARTZ_BRICKS, 0xea, 0xe5, 0xdd));
