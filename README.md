@@ -30,8 +30,8 @@ A proof-of-concetp implementation of the [J4K](https://research.dwi.ufl.edu/proj
 # Commands
 | Command | Usage |
 |---------|-------|
-| /kinet setCenter | Sets the bottom left block of your image (towards positive x and positive y ans positiv z)
-| /kinmect update | Pulls a Depth frame from the connected kinect and places it in the world |
+| /kinect setCenter | Sets the bottom left block of your image (towards positive x and positive y ans positiv z)
+| /kinect update | Pulls a Depth frame from the connected kinect and places it in the world |
 | /kinect start | Starts the auto update of the depth frames |
 | /kinect stop | Stops the auto update of the depth frames |
 | /kinect color |  Pulls a Color frame from the connected kinect and places it in the world |
