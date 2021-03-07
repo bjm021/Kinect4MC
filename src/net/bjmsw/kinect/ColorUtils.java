@@ -12,6 +12,13 @@ import java.util.ArrayList;
  * https://gist.github.com/nightlark/6482130#file-gistfile1-java (that has some errors) by Ryan Mast (nightlark)
  *
  * @author Xiaoxiao Li
+ *
+ *
+ * MC Version
+ *
+ * Modified with a list of Minecraft {@link Material} and their average RGB Colors
+ * By calling getColorNameFromHex() you will revceive a {@link Material} that matches your color the most!
+ *
  * @author b.jm021
  *
  *
@@ -54,7 +61,7 @@ public class ColorUtils {
         colorList.add(new ColorName(Material.RED_CONCRETE, 0xB0, 0x2E, 0x26));
         colorList.add(new ColorName(Material.BLACK_CONCRETE, 0x1D, 0x12, 0x21));
 
-        //auto generated
+        //auto generated and refined by user
         //colorList.add(new ColorName(Material.LIME_STAINED_GLASS, 0x7f, 0xcc, 0x19));
         //colorList.add(new ColorName(Material.GREEN_STAINED_GLASS, 0x66, 0x7f, 0x33));
         colorList.add(new ColorName(Material.MAGENTA_CONCRETE, 0xa9, 0x30, 0x9f));

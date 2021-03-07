@@ -76,7 +76,11 @@ public class Plugin extends JavaPlugin {
         System.out.println("[Kinect] Loading config...");
         System.out.println("[Kinect] Depth ResizeFactor: " + getConfig().getInt("depth.resize-factor"));
         System.out.println("[Kinect] Depth Depth: " + getConfig().getInt("depth.depth"));
-        System.out.println("[Kinect] ADepth utoupdate Interval: " + getConfig().getInt("depth.auto-interval"));
+        System.out.println("[Kinect] Depth Autoupdate Interval: " + getConfig().getInt("depth.auto-interval"));
+
+        System.out.println("[Kinect] Color ResizeFactor: " + getConfig().getInt("color.resize-factor"));
+        System.out.println("[Kinect] Color Autoupdate Interval: " + getConfig().getInt("color.auto-interval"));
+
 
         System.out.println("[Kinect] [Connection] Trying to connect to a Kinect V2 Device...");
         kinect = new Kinect();
