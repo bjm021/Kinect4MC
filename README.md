@@ -1,5 +1,5 @@
 # Kinect4MC
-A proof-of-concetp implementation of the [J4K](https://research.dwi.ufl.edu/projects/ufdw/j4k/) Library to display a depth and color image in Minecraft.
+A proof-of-concept implementation of the [J4K](https://research.dwi.ufl.edu/projects/ufdw/j4k/) Library to display a depth and color image in Minecraft.
 
 # Features
 - Depth Image printing (Kinect only)
